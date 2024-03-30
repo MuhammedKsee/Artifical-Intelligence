@@ -1,4 +1,3 @@
-# Artifical-Intelligence
 # Merhaba, Dünya! 👋
 
 Benim adım Muhammed, yazılım geliştirme ve teknolojiye olan tutkulu biriyim. Bu GitHub profili, projelerimi ve yazılım çalışmalarımı paylaşmak için bir platformdur.
